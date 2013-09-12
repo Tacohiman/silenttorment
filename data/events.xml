@@ -1,0 +1,6 @@
+<events>
+  <event>
+    <type>org.apollo.game.event.impl.KeepAliveEvent</type>
+    <chain />
+  </event>
+</events>
